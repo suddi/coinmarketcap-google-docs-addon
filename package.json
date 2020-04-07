@@ -21,7 +21,17 @@
   ],
   "main": "lib/index.js",
   "license": "MIT",
-  "keywords": [],
+  "keywords": [
+    "coinmarketcap",
+    "crypto",
+    "crypto-currency",
+    "bitcoin",
+    "btc",
+    "ethereum",
+    "eth",
+    "ripple",
+    "xrp"
+  ],
   "engines": {
     "node": ">= 8.0.0",
     "npm": ">= 5.0.0"
